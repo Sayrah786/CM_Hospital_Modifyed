@@ -1,0 +1,10 @@
+{"patient":[    
+    	{"name":"Ram", "place":"Bangalore", "Date":"3/07/2021", "Doc":"Dr.Rohan"},     
+      	{"name":"Sayrah", "place":"udupi", "Date":"4/07/2021", "Doc":"Dr.Rohan"},
+	{"name":"Surash", "place":"Bangalore", "Date":"5/07/2021", "Doc":"Dr.Rohan"},
+	{"name":"Mahesh", "place":"Bangalore", "Date":"6/07/2021", "Doc":"Dr.Rohan"},
+	{"name":"shubam", "place":"ranchi", "Date":"5/07/2021", "Doc":"Dr.Rohan"},
+	{"name":"vipul", "place":"goa", "Date":"2/07/2021", "Doc":"Dr.Rohan"},
+	{"name":"rish", "place":"Bangalore", "Date":"16/07/2021", "Doc":"Dr.Rohan"},
+	{"name":"sammed", "place":"mysuru", "Date":"5/07/2021", "Doc":"Dr.Rohan"}
+]}  
